@@ -1,0 +1,6 @@
+name: Lshan's website
+markdown: kramdown
+permalink: /post/:year/:month/:day/:title
+
+
+theme: jekyll-theme-architect
